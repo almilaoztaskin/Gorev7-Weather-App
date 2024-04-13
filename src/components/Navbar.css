@@ -1,0 +1,14 @@
+.navBar{
+    height:75px;
+    background-colour:white;
+    display:flex;
+    justify-content:space-around;
+    padding-left:30px;
+    padding-right:25px;
+    align-items:center;
+    font-weight:bold;
+}
+.navBar-header{
+    font-weight:600;
+    font-size:larger;
+}
